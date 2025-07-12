@@ -25,3 +25,22 @@ scRNAseq_Project/
 =======
 # scRNA_analysis
 >>>>>>> 356ced321e68d72df50eae1e9827bba468fd2ce3
+# scRNAseq_Project
+
+This project analyzes the PBMC 3k single-cell RNA-seq dataset using Scanpy.
+
+## Technologies Used
+- Python 3.10
+- Jupyter Notebook
+- Scanpy
+- AnnData
+- pandas, numpy, matplotlib, seaborn
+
+## Analysis Steps
+1. Load dataset
+2. Preprocessing
+3. Clustering and UMAP
+4. Cell type annotation
+5. Marker gene detection
+6. Save results
+
