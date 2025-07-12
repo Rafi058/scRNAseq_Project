@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PBMC 3k Single-Cell RNA-Seq Analysis
 
 This project performs an end-to-end single-cell RNA sequencing analysis of the **PBMC 3k dataset** using Python and the `scanpy` library.
@@ -21,3 +22,6 @@ scRNAseq_Project/
 │   └── download_pbmc3k.py          # Script to download the dataset
 └── README.md                       # Project description
 ```
+=======
+# scRNA_analysis
+>>>>>>> 356ced321e68d72df50eae1e9827bba468fd2ce3
